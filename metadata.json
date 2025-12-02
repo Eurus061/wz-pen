@@ -1,0 +1,7 @@
+{
+  "name": "ZenParticles - AI & Gesture Controlled 3D System",
+  "description": "A real-time, gesture-controlled 3D particle system. Use your hands to manipulate the particles and Google Gemini to generate custom 3D shapes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
